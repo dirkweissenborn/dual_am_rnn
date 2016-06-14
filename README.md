@@ -2,7 +2,7 @@
 
 If you make use of these implementations please cite the following paper:
 
-*To come*
+**Neural Associative Memory for Dual-Sequence Modeling** Dirk Weissenborn. [*arXiv:1606.03864*](http://arxiv.org/abs/1606.03864). (*to appear in RepL4NLP@ACL2016*).
 
 * requires TensorFlow 0.9
 * contains RNNCell implementations for:
